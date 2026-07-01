@@ -1,0 +1,6 @@
+{
+  "name": "Superdry",
+  "description": "A complete luxury shopping and customer experience platform with interactive store locator, order tracking, and an AI Shopping Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
